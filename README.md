@@ -1,2 +1,2 @@
 # coal
-coal的ports tree（遵循ABS ports规范）
+coal的repository tree（遵循ABS ports规范）
